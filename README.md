@@ -6,7 +6,7 @@ This repository contains the final thesis submitted to BHEL R&D, Hyderabad, as p
 ## 📄 Contents
 
 - `Thesis.pdf` – Complete certified thesis document
-- `2D&3D_Model_Screenshots/` – Ansys Maxwell 2D and 3D contact field plots
+- `2D&3D_Model_Screenshots` – Ansys Maxwell 2D and 3D contact field plots
 - `Solver log files` – Solver settings, meshing, boundary conditions
 
 ## 🧠 Tools Used
