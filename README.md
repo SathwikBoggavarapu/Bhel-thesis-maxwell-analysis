@@ -6,9 +6,8 @@ This repository contains the final thesis submitted to BHEL R&D, Hyderabad, as p
 ## 📄 Contents
 
 - `Thesis.pdf` – Complete certified thesis document
-- `2D_Model_Screenshots/` – Ansys Maxwell 2D contact field plots
-- `3D_Model_Screenshots/` – Parallel plate capacitor electrostatic fields
-- `Simulation_Notes.txt` – Solver settings, meshing, boundary conditions
+- `2D&3D_Model_Screenshots/` – Ansys Maxwell 2D and 3D contact field plots
+- `Solver log files` – Solver settings, meshing, boundary conditions
 
 ## 🧠 Tools Used
 
